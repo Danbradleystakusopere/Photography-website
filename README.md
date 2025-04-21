@@ -8,7 +8,7 @@ Photography-website
 3. Make sure the `images/` folder is in the same directory as the HTML file.
 4. Customize it with your own photos and stories if you'd like
 
----https://github.com/Danbradleystakusopere/Photography-website
+ https://danbradleystakusopere.github.io/Photography-website/
 
 ## Created By
 
